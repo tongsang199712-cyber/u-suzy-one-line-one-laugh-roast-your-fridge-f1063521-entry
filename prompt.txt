@@ -1,0 +1,1 @@
+Build a make.fun entry for 'One Line, One Laugh: Roast Your Fridge' (u-suzy-one-line-one-laugh-roast-your-fridge-f1063521): a main.ts that writes one funny fridge-roast line of at most 200 characters to /output/entry.txt, plus LICENSE, README.md and .makefun/owner.json, in a fresh public GitHub repo.
